@@ -1,6 +1,6 @@
 package com.example.RishiTraders;
 
-import Config.YamlPropertySourceFactory;
+import com.example.RishiTraders.Config.YamlPropertySourceFactory;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.PropertySource;
